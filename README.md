@@ -14,7 +14,7 @@
   - [Usage](#usage)
   - [Run tests](#run-tests)
   - [Deployment](#deployment)
-- [👥 Authors](#authors)
+- [👥 Author](#author)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
@@ -86,7 +86,6 @@ N/A
 
 ### Usage
 <br>
-To run the project, execute the following command:<br>
 To use with Visual Studio Code, Sublime text, Atom or any text editor.<br>
 
 
@@ -108,7 +107,7 @@ gitbash, github, github desktop.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## 👥 Authors <a name="author"></a>
+## 👥 Author <a name="author"></a>
 
 
 👤 **Damian**
