@@ -32,7 +32,7 @@ body {
   transition: all 500ms ease-in-out;
   user-select: none;
   cursor: pointer;
-  box-shadow: 9px 8px 22px -4px rgba(0,0,0,0.87);
+  box-shadow: 9px 8px 22px -4px rgba(0, 0, 0, 0.87);
 }
 
 #main:hover {
